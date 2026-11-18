@@ -45,22 +45,6 @@ To establish an interactive learning environment that promotes sound structural 
 - **Experiential Learning:** Technical demonstrations, workshops, training programmes and academic visits.
 - **Industry–Academia Collaboration:** Engagement with industry professionals, technical experts and other stakeholders.
 
-## Repository Documentation
-
-<p align="justify">
-This repository serves as the official documentation space for the planning, development, implementation and activities of CoE-SD.
-</p>
-
-| Folder / File | Description |
-|:---|:---|
-| `Meeting_Notes/` | Records of project discussions, conceptualisation and meeting reports. |
-| `Meeting_Notes/18.11.2026.md` | Project Discussion & Conceptualisation Report dated 18 November 2026. |
-| `Images/` | Institutional logo and project-related photographs and visual documentation. |
-
-<p align="justify">
-Additional documentation, photographs, installation details, educational resources and progress reports will be added as the Centre develops.
-</p>
-
 ## Project Coordination
 
 | Responsibility | Faculty Member |
